@@ -1,2 +1,2 @@
 # MediConnect
-A mobile app connecting local dispensaries with patients using real-time doctor availability, queue management, and medical records.
+UI prototype for connecting patients with local dispensaries.
